@@ -6,7 +6,7 @@
       "title": "720 Degrees",
       "year_published": 1989,
       "desc": "720° is a skateboarding video game released in arcades by Atari Games in 1986, in which the player controls a skateboarder skating around a middle-class neighborhood. By doing jumps and tricks, the player can eventually acquire enough points to compete at a skate park. The game's name comes from the ultimate trick, turning a full 720° in the air after jumping off a ramp.",
-      "rarity": 3
+      "rarity": "☆☆☆"
     },
     {
       "id" : 2,
@@ -14,7 +14,7 @@
       "title": "8 Eyes",
       "year_published": 1990,
       "desc": "8 Eyes is a 2D action platform game developed by Thinking Rabbit. The game features eight levels, and can be played by one or two players. It also features a large, diverse soundtrack, composed by Kenzou Kumei, often quoting from the operatic repertoire, consisting of three pieces for each of the eight levels, each set in a different part of the world.",
-      "rarity": 3
+      "rarity": "☆☆☆☆☆"
     },
     {
       "id" : 3,
@@ -22,7 +22,7 @@
       "title": "Abadox",
       "year_published": 1990,
       "desc": "Abadox is a side-scrolling shoot 'em up. The game is notable for its unique visual design, as the game takes place inside the intestinal tract of a giant alien organism. Abadox is also known to be difficult, since it takes one hit from an enemy projectile to be killed. In Abadox, if a player is killed, one must restart from a checkpoint passed before death.",
-      "rarity": 3
+      "rarity": "☆☆☆"
       
     },
     {
@@ -31,7 +31,7 @@
       "title": "Adventure Island",
       "year_published": 1988,
       "desc": "Hudson's Adventure Island is a side-scrolling platform game produced by Hudson Soft. Adventure Island is an adaptation of the arcade game Wonder Boy, developed by Escape for Sega. Adventure Island was followed by a series of sequels with no connection to the Wonder Boy series.",
-      "rarity": 3
+      "rarity": "☆☆"
     },
     {
       "id" : 5,
@@ -39,7 +39,7 @@
       "title": "Donkey Kong",
       "year_published": 1986,
       "desc": "Donkey Kong is a video game starring a gorilla named Donkey Kong created by Shigeru Miyamoto in 1981.It is a single-screen platform or action puzzle types, featuring Donkey Kong as the opponent in an industrial construction setting. It has sold over 82.88 million copies worldwide.",
-      "rarity": 4
+      "rarity": "☆☆☆☆"
     },
     {
       "id" : 6,
@@ -47,7 +47,7 @@
       "title": "Ghostbusters",
       "year_published": 1988,
       "desc": "The game follows the player's character as a recruit in the Ghostbusters, a team of parapsychologists who pursue and capture ghosts. The game's plot is set two years after Ghostbusters II, around Thanksgiving in 1991, with the Ghostbusters team training the player's character while investigating paranormal activities in New York City and facing old enemies.",
-      "rarity": 4
+      "rarity": "☆☆☆☆"
     },
     {
       "id" : 7,
@@ -55,7 +55,7 @@
       "title": "Indiana Jones and the Temple of Doom",
       "year_published": 1988,
       "desc": "Indiana Jones and The Temple of Doom developed and published by Atari Games, is based on the 1984 film of the same name, the second film in the Indiana Jones franchise. It is the first Atari System 1 arcade game to include digitized speech, including voice clips of Harrison Ford as Indiana Jones and Amrish Puri as Mola Ram, as well as John Williams' music from the film.",
-      "rarity": 3
+      "rarity": "☆☆☆"
     },
     {
       "id" : 8,
@@ -63,7 +63,7 @@
       "title": "Klax",
       "year_published": 1990,
       "desc": "Klax is a puzzle video game released in arcades in 1990 by Atari Games. The object is to catch colored blocks tumbling down a machine and arrange them in colored rows and patterns to make them disappear. Klax was originally published as a coin-op follow-up to Tetris. This is the last version for the console which was discontinued in early 1992.",
-      "rarity": 5
+      "rarity": "☆☆☆☆☆"
     },
     {
       "id" : 9,
@@ -71,7 +71,7 @@
       "title": "Major League Baseball",
       "year_published": 1988,
       "desc": "Major League Baseball is a sports video game released in 1988. It is notable for being one of the first video games licensed by Major League Baseball. Without the backing of the Players Association, the game could not name the actual players, although it was able to use their numbers. In doing so, it became the first baseball game for the Nintendo Entertainment System to carry official Major League Baseball licensing and lineups.",
-      "rarity": 2
+      "rarity": "☆☆"
     },
     {
       "id" : 10,
@@ -79,7 +79,7 @@
       "title": "Silver Surfer",
       "year_published": 1990,
       "desc": "Silver Surfer is a 1990 scrolling shoot 'em up video game developed by Software Creations and published by Arcadia Systems. Silver Surfer is based on the Marvel Comics character Silver Surfer, and is primarily known for its strong difficulty and highly praised music.",
-      "rarity": 6
+      "rarity": "☆☆☆☆☆"
     }
   ]
 }
