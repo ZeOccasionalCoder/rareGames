@@ -2,21 +2,21 @@
   "nes_games": [
     {
       "id" : 1,
-      "url" : "",
+      "url" : "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/720-arcadegame.jpg/220px-720-arcadegame.jpg",
       "title": "720 Degrees",
       "year_published": 1989,
       "rarity": 3
     },
     {
       "id" : 2,
-      "url" : "",
+      "url" : "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/8_eyes_front.jpg/220px-8_eyes_front.jpg",
       "title": "8 Eyes",
       "year_published": 1990,
       "rarity": 3
     },
     {
       "id" : 3,
-      "url" :"",
+      "url" :"https://upload.wikimedia.org/wikipedia/en/7/70/Abadox_box_art.jpg",
       "title": "Abadox",
       "year_published": 1990,
       "rarity": 3
@@ -24,49 +24,49 @@
     },
     {
       "id" : 4,
-      "url" : "",
+      "url" : "https://upload.wikimedia.org/wikipedia/en/3/3c/Adventureisland.jpg",
       "title": "Adventure Island",
       "year_published": 1988,
       "rarity": 3
     },
     {
       "id" : 5,
-      "url" : "",
+      "url" : "https://upload.wikimedia.org/wikipedia/en/8/8e/Donkey_Kong_Jungle_Beat_Coverart.jpg",
       "title": "Donkey Kong",
       "year_published": 1986,
       "rarity": 4
     },
     {
       "id" : 6,
-      "url" : "",
+      "url" : "https://images-na.ssl-images-amazon.com/images/I/51Pa1Bq-PKL.jpg",
       "title": "Ghostbusters",
       "year_published": 1988,
       "rarity": 4
     },
     {
       "id" : 7,
-      "url" : "",
+      "url" : "https://upload.wikimedia.org/wikipedia/en/1/10/Indiana_Jones_and_the_Temple_of_Doom_PosterB.jpg",
       "title": "Indiana Jones and the Temple of Doom",
       "year_published": 1988,
       "rarity": 3
     },
     {
       "id" : 8,
-      "url" : "",
+      "url" : "https://upload.wikimedia.org/wikipedia/en/1/1e/Klax_flyer.jpg",
       "title": "Klax",
       "year_published": 1990,
       "rarity": 5
     },
     {
       "id" : 9,
-      "url" : "",
+      "url" : "https://upload.wikimedia.org/wikipedia/en/e/e2/MajorLeagueBaseballLJNCover.jpg",
       "title": "Major League Baseball",
       "year_published": 1988,
       "rarity": 2
     },
     {
       "id" : 10,
-      "url" : "",
+      "url" : "https://upload.wikimedia.org/wikipedia/en/6/6f/Silver_Surfer_NES_box.jpg",
       "title": "Silver Surfer",
       "year_published": 1990,
       "rarity": 6
