@@ -3,79 +3,73 @@
     {
       "id" : 1,
       "url" : "",
-      "title": "10-Yard Fight",
-      "year_published": 1985,
-      "rarity": 2
-    },
-    {
-      "id" : 2,
-      "url" : "",
-      "title": "1942",
-      "year_published": 1986,
-      "rarity": 3
-    },
-    {
-      "id" : 3,
-      "url" : "",
-      "title": "1943: The Battle of Midway",
-      "year_published": 1988,
-      "rarity": 4
-    },
-    {
-      "id" : 4,
-      "url" : "",
       "title": "720 Degrees",
       "year_published": 1989,
       "rarity": 3
     },
     {
-      "id" : 5,
+      "id" : 2,
       "url" : "",
       "title": "8 Eyes",
       "year_published": 1990,
       "rarity": 3
     },
     {
-      "id" : 6,
-      "url" : "",
-      "title": "A Boy and His Blob",
-      "year_published": 1990,
-      "rarity": 3
-    },
-    {
-      "id" : 7,
-      "url" : "",
+      "id" : 3,
+      "url" :"",
       "title": "Abadox",
       "year_published": 1990,
       "rarity": 3
+      
     },
     {
-      "id" : 8,
-      "url" : "",
-      "title": "Advanced Dungeons and Dragons Hillsfar",
-      "year_published": 1993,
-      "rarity": 6
-    },
-    {
-      "id" : 9,
+      "id" : 4,
       "url" : "",
       "title": "Adventure Island",
       "year_published": 1988,
       "rarity": 3
     },
     {
-      "id" : 10,
+      "id" : 5,
       "url" : "",
-      "title": "Adventure Island 2",
-      "year_published": 1991,
+      "title": "Donkey Kong",
+      "year_published": 1986,
       "rarity": 4
     },
     {
-      "id" : 11,
+      "id" : 6,
       "url" : "",
-      "title": "Adventures of Lolo 2",
-      "year_published": 1990,
+      "title": "Ghostbusters",
+      "year_published": 1988,
       "rarity": 4
+    },
+    {
+      "id" : 7,
+      "url" : "",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year_published": 1988,
+      "rarity": 3
+    },
+    {
+      "id" : 8,
+      "url" : "",
+      "title": "Klax",
+      "year_published": 1990,
+      "rarity": 5
+    },
+    {
+      "id" : 9,
+      "url" : "",
+      "title": "Major League Baseball",
+      "year_published": 1988,
+      "rarity": 2
+    },
+    {
+      "id" : 10,
+      "url" : "",
+      "title": "Silver Surfer",
+      "year_published": 1990,
+      "rarity": 6
     }
   ]
 }
